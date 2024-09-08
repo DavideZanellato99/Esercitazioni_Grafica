@@ -1,0 +1,7 @@
+﻿  hello_triangle.cpp
+  hello_window.cpp
+  Origine.cpp
+  Generazione del codice in corso...
+C:\Users\david\Documents\OpenGL\OpenGL\Esercitazioni\hello_triangle.cpp(1,10): error C1083: Non è possibile aprire il file inclusione: 'glad/glad.h': No such file or directory
+C:\Users\david\Documents\OpenGL\OpenGL\Esercitazioni\hello_window.cpp(6,10): error C1083: Non è possibile aprire il file inclusione: 'glad/glad.h': No such file or directory
+C:\Users\david\Documents\OpenGL\OpenGL\Origine.cpp(1,10): error C1083: Non è possibile aprire il file inclusione: 'glad/glad.h': No such file or directory
